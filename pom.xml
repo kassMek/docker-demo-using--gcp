@@ -55,7 +55,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>demo-docker</finalName>
+        <finalName>demo-docker-artifactory</finalName>
     </build>
 
 </project>
